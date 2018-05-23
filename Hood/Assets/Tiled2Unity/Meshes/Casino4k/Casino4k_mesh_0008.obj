@@ -1,0 +1,31 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Casino4k_mesh_0008.obj'
+
+# Vertices (Count = 8)
+v -352 -736 0
+v -384 -736 0
+v -384 -704 0
+v -352 -704 0
+v -320 -736 0
+v -352 -736 0
+v -352 -704 0
+v -320 -704 0
+
+# Texture cooridinates (Count = 6)
+vt 0 0.2666667
+vt 0.125 0.2666667
+vt 0.125 0.3333333
+vt 0 0.3333333
+vt 0.25 0.2666667
+vt 0.25 0.3333333
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Casino4k_mesh_0008
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/2/1 6/5/1 7/6/1 8/3/1
+

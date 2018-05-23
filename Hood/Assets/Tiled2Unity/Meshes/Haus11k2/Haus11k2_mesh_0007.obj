@@ -1,0 +1,33 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'Haus11k2_mesh_0007.obj'
+
+# Vertices (Count = 8)
+v -480 -416 0
+v -512 -416 0
+v -512 -384 0
+v -480 -384 0
+v -512 -448 0
+v -544 -448 0
+v -544 -416 0
+v -512 -416 0
+
+# Texture cooridinates (Count = 8)
+vt 0.625 0.1875
+vt 0.6875 0.1875
+vt 0.6875 0.25
+vt 0.625 0.25
+vt 0.5625 0.0625
+vt 0.625 0.0625
+vt 0.625 0.125
+vt 0.5625 0.125
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g Haus11k2_mesh_0007
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/6/1 7/7/1 8/8/1
+
